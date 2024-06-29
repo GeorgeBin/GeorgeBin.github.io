@@ -14,9 +14,6 @@
     <loc>https://georgebin.github.io/blog/2016-02-14-hello-markdown/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://georgebin.github.io/blog/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://georgebin.github.io/tags/blogdown/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,17 +41,22 @@
     <loc>https://georgebin.github.io/tags/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://georgebin.github.io/blog/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://georgebin.github.io/blog/2015-07-23-lorem-ipsum/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://georgebin.github.io/about/</loc>
-  </url><url>
-    <loc>https://georgebin.github.io/docs/</loc>
   </url><url>
     <loc>https://georgebin.github.io/tags/hugo/</loc>
   </url><url>
     <loc>https://georgebin.github.io/search/</loc>
   </url><url>
     <loc>https://georgebin.github.io/tags/tutorial/</loc>
+  </url><url>
+    <loc>https://georgebin.github.io/docs/</loc>
+  </url><url>
+    <loc>https://georgebin.github.io/note/</loc>
   </url>
 </urlset>
